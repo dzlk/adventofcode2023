@@ -1,0 +1,7 @@
+LRR
+
+BBA = (BBB, XXX)
+BBB = (XXX, BBZ)
+BBC = (BBZ, BBC)
+BBZ = (BBC, BBZ)
+XXX = (XXX, XXX)
